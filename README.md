@@ -1,3 +1,5 @@
+DEPRECATED: Development moved to [MediathekView Projekt](https://github.com/mediathekview/MediathekViewMobile) 
+
 MediathekViewMobile ist eine mobile Android & iOS Anwendung für den Zugriff auf die Filmliste des [MediathekView Projekts](https://mediathekview.de/) mithilfe der API von [MediathekViewWeb](https://mediathekviewweb.de/)
 
 # Download
